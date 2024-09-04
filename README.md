@@ -1,15 +1,20 @@
-# Olá, Me chamo Pedro Adorno 
-- 👨🏽‍💻 Atualmente trabalhando na área de Logística
-- 👨🏽‍🎓 Estudando Ciência de Dados e Análise e Desenvolvimento de Sistemas
+# Olá, Me chamo Pedro Adorno !
+- 👨🏽‍💻 Atualmente trabalhando na área de Logística realizando perfomance dos motoristas e de frete.
+- 👨🏽‍🎓 Estudando Ciência de Dados e Análise (FATEC) e Desenvolvimento de Sistemas (UAM).
+  
+ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
+
+- **Linguagens:** Python, VBA, HTML, CSS, DAX
+- **Frameworks:**  Django,  Flask
+- **Ferramentas de Desenvolvimento:** Visual Studio
+- **Ferramentas de BI e Análise de Dados:** Power BI, Excel, Tableau
   
 ![Pedro Adorno Stats](https://github-readme-stats.vercel.app/api?username=pedro-adorno&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-adorno&layout=compact&theme=dark)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />          
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
