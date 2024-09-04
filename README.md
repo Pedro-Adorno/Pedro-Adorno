@@ -1,6 +1,6 @@
 # Olá, Me chamo Pedro Adorno !
 - 👨🏽‍💻 Atualmente trabalhando na área de Logística realizando perfomance dos motoristas e de frete.
-- 👨🏽‍🎓 Estudando Ciência de Dados e Análise (FATEC) e Desenvolvimento de Sistemas (UAM).
+- 👨🏽‍🎓 Estudando Ciência de Dados (FATEC) e Análise e Desenvolvimento de Sistemas (UAM).
   
  Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
