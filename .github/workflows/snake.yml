@@ -1,0 +1,36 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Executa a cada 6 horas
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v2
+
+      - name: Instalar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependências
+        run: |
+          pip install -r requirements.txt
+
+      - name: Gerar animação da cobrinha
+        run: |
+          python snake.py
+
+      - name: Commit e push dos resultados
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Atualizando a cobrinha 🐍"
+          git push
