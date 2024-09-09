@@ -11,7 +11,7 @@
   
 ![Pedro Adorno Stats](https://github-readme-stats.vercel.app/api?username=pedro-adorno&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-adorno&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-adorno&layout=compact&theme=dark).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
