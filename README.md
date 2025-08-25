@@ -7,7 +7,7 @@
 - **Linguagens:** Python, VBA, HTML, SQL, DAX, R
 - **Frameworks:**  Django,  Flask
 - **Ferramentas de Desenvolvimento:** Visual Studio, RStudio, Databricks, Power Query
-- **Ferramentas de BI e Análise de Dados:** Power BI, Excel, Tableaun Jupyter Notebook
+- **Ferramentas de BI e Análise de Dados:** Power BI, Excel, Tableau, Jupyter Notebook
   
 ![Pedro Adorno Stats](https://github-readme-stats.vercel.app/api?username=pedro-adorno&show_icons=true&theme=dark)
 
