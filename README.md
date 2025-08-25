@@ -4,10 +4,10 @@
   
  Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
-- **Linguagens:** Python, VBA, HTML, CSS, DAX
+- **Linguagens:** Python, VBA, HTML, SQL, DAX, R
 - **Frameworks:**  Django,  Flask
-- **Ferramentas de Desenvolvimento:** Visual Studio
-- **Ferramentas de BI e Análise de Dados:** Power BI, Excel, Tableau
+- **Ferramentas de Desenvolvimento:** Visual Studio, RStudio, Databricks, Power Query
+- **Ferramentas de BI e Análise de Dados:** Power BI, Excel, Tableaun Jupyter Notebook
   
 ![Pedro Adorno Stats](https://github-readme-stats.vercel.app/api?username=pedro-adorno&show_icons=true&theme=dark)
 
