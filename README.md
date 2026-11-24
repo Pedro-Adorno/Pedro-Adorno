@@ -1,50 +1,27 @@
-Pedro Adorno
+# Olá, Me chamo Pedro Adorno !
+- 👨🏽‍💻 Atualmente trabalhando na área de Logística realizando perfomance dos motoristas e de frete.
+- 👨🏽‍🎓 Estudando Ciência de Dados (FATEC) e Análise e Desenvolvimento de Sistemas (UAM).
+  
+ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
-Data Analytics | Data Science | Pricing & Automation
+- **Linguagens:** Python, VBA, SQL, DAX, R
+- **Frameworks:**  Django,  Flask
+- **Ferramentas de Desenvolvimento:** Visual Studio, RStudio, Databricks, Power Query
+- **Ferramentas de BI e Análise de Dados:** Power BI, Excel, Tableau, Jupyter Notebook
+  
+![Pedro Adorno Stats](https://github-readme-stats.vercel.app/api?username=pedro-adorno&show_icons=true&theme=dark)
 
-Sou estudante de Ciência de Dados na FATEC Jundiaí e atuo na área de Pricing na Edenred, trabalhando com análises, indicadores, cálculos e processos que apoiam decisões de negócio.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-adorno&layout=compact&theme=dark).
 
-Tenho interesse em transformar dados em informações estratégicas, desenvolver soluções analíticas e automatizar processos para tornar operações mais eficientes.
-
-Gosto de unir tecnologia e visão de negócio para resolver problemas reais, sempre buscando evoluir em análise de dados, Business Intelligence e Ciência de Dados.
-
-⸻
-
-💼 Atuação profissional
-
-Pricing Intern — Edenred
-
-* Análise de dados e indicadores de performance.
-* Desenvolvimento e aprimoramento de ferramentas analíticas.
-* Automação de processos e rotinas utilizando Python e Excel.
-* Estudos de viabilidade, simulações e análises de cenários.
-* Suporte à tomada de decisão por meio de dados.
-
-🎓 Formação
-
-* Ciência de Dados — FATEC Jundiaí.
-
-🛠️ Tecnologias e ferramentas
-
-Linguagens e análise de dados
-
-Business Intelligence
-
-Ambiente de desenvolvimento
-
-📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedro-adorno&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-adorno&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-📫 Vamos nos conectar?
-
-Estou sempre aberto a trocar experiências, aprender e desenvolver projetos relacionados a dados e tecnologia.
-
-⸻
-
-<p align="center">
-  <i>"Transformando dados em decisões, ideias em soluções."</i>
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:pedro.malagutti11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-adorno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
