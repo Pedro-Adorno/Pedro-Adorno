@@ -4,7 +4,7 @@
   
  Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
-- **Linguagens:** Python, VBA, HTML, SQL, DAX, R
+- **Linguagens:** Python, VBA, SQL, DAX, R
 - **Frameworks:**  Django,  Flask
 - **Ferramentas de Desenvolvimento:** Visual Studio, RStudio, Databricks, Power Query
 - **Ferramentas de BI e Análise de Dados:** Power BI, Excel, Tableau, Jupyter Notebook
